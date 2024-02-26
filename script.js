@@ -2,7 +2,7 @@ const noButton = document.getElementById('no')
 const OFFSET = 50
 
 noButton.addEventListener('click', () => {
-    alert('Dang you really wanted to say no huh :(')
+    alert('Okay, yeah, i understand ig :( looks like u put more effort into hitting this quite literally impossible to hit button than just saying yes to all of the above :(( lol ')
     window.close()
 })
 
